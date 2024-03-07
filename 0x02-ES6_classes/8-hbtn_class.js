@@ -9,6 +9,6 @@ export default class HolbertonClass {
   }
 
   toString() {
-    return this._loaction;
+    return this._location;
   }
 }
